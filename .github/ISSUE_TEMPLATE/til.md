@@ -1,6 +1,6 @@
 ---
 name: TIL
-about: Describe this issue template's purpose here.
+about: 오늘의 배움
 title: ''
 labels: ''
 assignees: ''
